@@ -1,0 +1,1 @@
+# vefify-power-of-two-another-way
